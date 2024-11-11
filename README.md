@@ -36,3 +36,11 @@ This is only needed if you choose to write your own Stripper configs. Running `s
 ### Pitfalls
 
 Configs from other sources will probably not work without modification with the plugin version of Stripper. See [this issue](https://github.com/tilgep/stripper/issues/2) for more information.
+
+## `map_cache.dat`
+
+`map_cache.dat` is a keyvalue file containing map metadata. It would typically be used by online functionality in Momentum Mod.
+
+It is entirely optional, but it adds extra metadata on the loading screen, HUD and scoreboard, such as tier and zones.
+
+Place in your `momentum` folder.

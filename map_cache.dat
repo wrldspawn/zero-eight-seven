@@ -1,0 +1,91 @@
+"MapCacheData"
+{
+	"0.8.7"
+	{
+		"surf_ace"
+		{
+			"id"		"1"
+			"type"		"1"
+			"statusFlag"		"-1"
+			"hash"		"f84f89ac3f1149673d21ab0264e243f7a4cf6006"
+			"inFavorites"		"0"
+			"inLibrary"		"0"
+			"mapNeedsUpdate"		"0"
+			"mapFileExists"		"1"
+			"info"
+			{
+				"description"		" "
+				"numTracks"		"2"
+			}
+			"mainTrack"
+			{
+				"trackNum"		"0"
+				"difficulty"		"1"
+				"numZones"		"8"
+				"isLinear"		"0"
+			}
+			"credits"
+			{
+				"1"
+				{
+					"id"		"1"
+					"type"		"0"
+					"user"
+					{
+						"id"		"1"
+						"steamID"		"0x0000000000000000"
+						"alias"		"Juxtapo"
+					}
+				}
+				"2"
+				{
+					"id"		"2"
+					"type"		"1"
+					"user"
+					{
+						"id"		"2"
+						"steamID"		"0x0000000000000000"
+						"alias"		"Syncronyze"
+					}
+				}
+			}
+		}
+		"surf_aircontrol_ksf"
+		{
+			"id"		"2"
+			"type"		"1"
+			"statusFlag"		"-1"
+			"hash"		"3c3b754ffb0f02b3d4a1506c8ffebdca5d18e902"
+			"inFavorites"		"0"
+			"inLibrary"		"0"
+			"mapNeedsUpdate"		"0"
+			"mapFileExists"		"1"
+			"info"
+			{
+				"description"		" "
+				"numTracks"		"2"
+			}
+			"mainTrack"
+			{
+				"trackNum"		"0"
+				"difficulty"		"1"
+				"numZones"		"5"
+				"isLinear"		"1"
+			}
+			"credits"
+			{
+				"1"
+				{
+					"id"		"3"
+					"type"		"0"
+					"user"
+					{
+						"id"		"3"
+						"steamID"		"0x0000000000000000"
+						"alias"		"SnoopSh"
+					}
+				}
+			}
+		}
+	}
+}
