@@ -87,5 +87,79 @@
 				}
 			}
 		}
+		"surf_akai_final"
+		{
+			"id"		"3"
+			"type"		"1"
+			"statusFlag"		"-1"
+			"hash"		"5a8608068b49cc41abe48e5c6c7e3c1f932bc635"
+			"inFavorites"		"0"
+			"inLibrary"		"0"
+			"mapNeedsUpdate"		"0"
+			"mapFileExists"		"1"
+			"info"
+			{
+				"description"		" "
+				"numTracks"		"1"
+			}
+			"mainTrack"
+			{
+				"trackNum"		"0"
+				"difficulty"		"1"
+				"numZones"		"3"
+				"isLinear"		"1"
+			}
+			"credits"
+			{
+				"1"
+				{
+					"id"		"4"
+					"type"		"0"
+					"user"
+					{
+						"id"		"4"
+						"steamID"		"0x0000000000000000"
+						"alias"		"akai"
+					}
+				}
+			}
+		}
+		"surf_andromeda"
+		{
+			"id"		"4"
+			"type"		"1"
+			"statusFlag"		"-1"
+			"hash"		"d62169268b2b43b22867c33b28c16479cd804e45"
+			"inFavorites"		"0"
+			"inLibrary"		"0"
+			"mapNeedsUpdate"		"0"
+			"mapFileExists"		"1"
+			"info"
+			{
+				"description"		" "
+				"numTracks"		"2"
+			}
+			"mainTrack"
+			{
+				"trackNum"		"0"
+				"difficulty"		"1"
+				"numZones"		"3"
+				"isLinear"		"1"
+			}
+			"credits"
+			{
+				"1"
+				{
+					"id"		"2"
+					"type"		"0"
+					"user"
+					{
+						"id"		"2"
+						"steamID"		"0x0000000000000000"
+						"alias"		"Syncronyze"
+					}
+				}
+			}
+		}
 	}
 }
