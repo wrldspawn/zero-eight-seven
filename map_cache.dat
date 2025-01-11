@@ -49,6 +49,13 @@
 					}
 				}
 			}
+			"thumbnail"
+			{
+				"id"		"1"
+				"small"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_ace.png"
+				"medium"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_ace.png"
+				"large"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_ace.png"
+			}
 		}
 		"surf_aircontrol_ksf"
 		{
@@ -85,6 +92,13 @@
 						"alias"		"SnoopSh"
 					}
 				}
+			}
+			"thumbnail"
+			{
+				"id"		"2"
+				"small"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_aircontrol_ksf.png"
+				"medium"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_aircontrol_ksf.png"
+				"large"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_aircontrol_ksf.png"
 			}
 		}
 		"surf_akai_final"
@@ -123,6 +137,13 @@
 					}
 				}
 			}
+			"thumbnail"
+			{
+				"id"		"3"
+				"small"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_akai_final.png"
+				"medium"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_akai_final.png"
+				"large"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_akai_final.png"
+			}
 		}
 		"surf_andromeda"
 		{
@@ -159,6 +180,101 @@
 						"alias"		"Syncronyze"
 					}
 				}
+			}
+			"thumbnail"
+			{
+				"id"		"4"
+				"small"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_andromeda.png"
+				"medium"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_andromeda.png"
+				"large"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_andromeda.png"
+			}
+		}
+		"surf_apollo"
+		{
+			"id"		"5"
+			"type"		"1"
+			"statusFlag"		"-1"
+			"hash"		"55eb907c8ea12c10ec95a5f51589ba959c55d8d6"
+			"inFavorites"		"0"
+			"inLibrary"		"0"
+			"mapNeedsUpdate"		"0"
+			"mapFileExists"		"1"
+			"info"
+			{
+				"description"		" "
+				"numTracks"		"7"
+			}
+			"mainTrack"
+			{
+				"trackNum"		"0"
+				"difficulty"		"1"
+				"numZones"		"3"
+				"isLinear"		"1"
+			}
+			"credits"
+			{
+				"1"
+				{
+					"id"		"5"
+					"type"		"0"
+					"user"
+					{
+						"id"		"5"
+						"steamID"		"0x0000000000000000"
+						"alias"		"ApeXe"
+					}
+				}
+				"2"
+				{
+					"id"		"6"
+					"type"		"1"
+					"user"
+					{
+						"id"		"6"
+						"steamID"		"0x0000000000000000"
+						"alias"		"rathe"
+					}
+				}
+				"3"
+				{
+					"id"		"7"
+					"type"		"1"
+					"user"
+					{
+						"id"		"7"
+						"steamID"		"0x0000000000000000"
+						"alias"		"MollyandCiroc"
+					}
+				}
+				"4"
+				{
+					"id"		"8"
+					"type"		"1"
+					"user"
+					{
+						"id"		"8"
+						"steamID"		"0x0000000000000000"
+						"alias"		"Dini"
+					}
+				}
+				"5"
+				{
+					"id"		"9"
+					"type"		"1"
+					"user"
+					{
+						"id"		"9"
+						"steamID"		"0x0000000000000000"
+						"alias"		"zer0tail"
+					}
+				}
+			}
+			"thumbnail"
+			{
+				"id"		"5"
+				"small"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_apollo.png"
+				"medium"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_apollo.png"
+				"large"		"https://gitlab.com/worldspawn/sourcemapicons/-/raw/main/icons/surf_apollo.png"
 			}
 		}
 	}
